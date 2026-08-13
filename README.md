@@ -1,2 +1,2 @@
 # Trajetoria
-Minha trajetória estudando para ser analista de dados.
+Minha trajetória estudando para ser Desenvolvedor JAVA.

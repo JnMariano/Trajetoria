@@ -26,7 +26,7 @@ public class JogoDaVelha {
                 System.out.print(i + " "); // Número da Linha
                 for (int j = 0; j < 3; j++) {
                     System.out.print(tabuleiro[i][j]);
-                    if (j < 2) System.out.print(" | "); // Divisória de colunas
+                    // if (j < 2) System.out.print(" | "); // Divisória de colunas
                 }
                 System.out.println();
                 if (i < 2) System.out.println("  ---------"); // Divisória de linhas

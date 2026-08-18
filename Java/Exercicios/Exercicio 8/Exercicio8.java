@@ -7,7 +7,7 @@ public class Exercicio8{
             if(numero[i]<5){
                 System.out.println("O numero " + numero[i] + " e menor que 5");
             }
-         }()
+         }
 
     }
 }
